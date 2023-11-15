@@ -19,7 +19,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Justin Ardjosentono
 
   #### Je startniveau:
-  Rood
+  Blauw-Rood
 
   #### Je focus:
   Responsive 
@@ -63,16 +63,15 @@ https://arcteryx.com/nl/en
   ### Bevindingen
 golf le fleur 
 
-  Lijst met je bevindingen die in de test naar voren kwamen:
-uitgevouwen knop aka dropdown word niet uitgelezen
+    Lijst met je bevindingen die in de test naar voren kwamen:
+    uitgevouwen knop aka dropdown word niet uitgelezen
+    alles word gezien als een link 
+    soms van recht naar links
 
-alles word gezien als een link 
+ Arcteryx
 
-Arcteryx
-
-wcag en vraagt of je ergens tegen aan loopt om die te vermelden
-
-nav is een hover nav waarbij als je erover hovert het uitklapt en ja allles ziet met de tab key zie je het niet maar word eerst alles gezegd voordat je naar de ander gaat.
+    wcag en vraagt of je ergens tegen aan loopt om die te vermelden
+    nav is een hover nav waarbij als je erover hovert het uitklapt en ja allles ziet met de tab key zie je het niet maar word eerst alles gezegd voordat je naar de ander gaat.
 
 
 </details>
