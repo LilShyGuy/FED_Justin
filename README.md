@@ -42,6 +42,7 @@ https://arcteryx.com/nl/en
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Arc'teryx gearguide
+  
   <img src="readme-images/GG.PNG" width="375px" alt="splash page hier zie je alles">
   <img src="readme-images/GG1.PNG" width="375px" alt="splash page hier zie je alles">
   <img src="readme-images/GG2.PNG" width="375px" alt="splash page hier zie je alles">
