@@ -42,13 +42,13 @@ https://arcteryx.com/nl/en
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Arc'teryx gearguide
-  <img src="readme-images/GG.png" width="375px" alt="splash page hier zie je alles">
-  <img src="readme-images/GG1.png" width="375px" alt="splash page hier zie je alles">
-  <img src="readme-images/GG2.png" width="375px" alt="splash page hier zie je alles">
+  <img src="readme-images/GG.PNG" width="375px" alt="splash page hier zie je alles">
+  <img src="readme-images/GG1.PNG" width="375px" alt="splash page hier zie je alles">
+  <img src="readme-images/GG2.PNG" width="375px" alt="splash page hier zie je alles">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   jacket finder
-  <img src="readme-images/JacketFinder.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/JacketFinder.PNG" width="375px" alt="omschrijving van de pagina">
   
  
 </details>
