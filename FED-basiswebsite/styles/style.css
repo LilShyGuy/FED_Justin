@@ -1,0 +1,234 @@
+/**************/
+/* CSS REMEDY */
+/**************/
+*, *::after, *::before {
+  box-sizing:border-box;  
+}
+
+
+
+
+
+
+/*********************/
+/* CUSTOM PROPERTIES */
+/*********************/
+:root {
+	/* startje */
+	--color-text:#111;
+	--color-background:#eee;
+}
+
+
+
+
+
+/****************/
+/* JOUW STYLING */
+/****************/
+
+/* jouw code */
+.hidden{
+    display: none;
+}
+*{
+	font-family: gineso, sans-serif;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+header{
+	margin: 0;
+	padding: 0;
+	display: grid;
+	grid-template-columns: 1fr 3fr 1.5fr 1fr 1fr;
+	grid-template-rows: 1fr 1fr 1.5fr;
+  	width: 100vw;
+  	background-color: white;	 
+   height: 10vh;
+   flex-wrap: wrap;
+  }
+
+#titlecard {
+	background-color: gray;
+	background-image: url(https://images-dynamic-arcteryx.imgix.net/campaign/S23/ski-snow/assets/images/panel1_desktop_arcteryx-ski-snow-hub-hero.jpg?fit=crop&h=1201&w=2881&q=65);
+	-webkit-filter: contrast(80%);
+	width: 100vw;
+	height: 220px;
+	background-repeat: no-repeat;
+	background-size: cover ;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	color: white;
+}
+
+#titlecard h1 {
+	font-size: larger;
+  text-align: center;
+  margin-top: 5vh;
+}
+
+#titlecard h1 div {
+	font-size: xxx-large;
+}
+
+#titlelinks {
+	width: 100vw;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 3em;
+    padding-top: 3em;
+  padding-top: 0;
+}
+
+#Banner{
+	grid-row-start: 1;
+	grid-row-end: 2;
+	grid-column-start: 1;
+	grid-column-end: -1;
+}
+
+#Banner ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	display: flex;
+	justify-content: center;
+	width: 100vw;
+	background-color: black;
+	gap: 2em;
+	line-height: 1.2em;
+	}
+
+#Banner li {
+	display: block;
+	text-decoration: none;
+	color: white;
+	font-size: small;
+	font-weight: normal;
+	}
+
+	#banner2{
+		grid-row-start: 2;
+		grid-row-end: 3;
+		grid-column-start: 1;
+		grid-column-end: -1;
+	}
+
+	#banner2 ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		display: flex;
+		justify-content: center;
+		width: 100vw;
+		background-color: rgb(168, 168, 168);
+		gap: 2em;
+		line-height: 1.2em;
+		}
+	
+	#banner2 li {
+		display: block;
+		text-decoration: none;
+		color: rgb(0, 0, 0);
+		font-size: 0.5em;
+		font-weight: bold;
+		margin: 0;
+		padding: 0;
+		}
+	
+	nav{	
+		background-origin: padding-box;
+   		width: 100%;
+		   display: flex;
+		   align-items: center;
+		grid-row-start: 3;
+		grid-row-end: -1;
+		grid-column-start: 2;
+		grid-column-end: 3;
+		}
+
+		nav ul {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+			overflow: hidden;
+			background-color: white;
+			display: flex;
+			justify-content: space-evenly;
+		  }
+		  
+	  nav li  {
+			display: block;
+			color: black;
+			text-decoration: none;
+			font-size: small;
+			padding-top: 1vw;
+			padding-bottom: 1vw;
+			min-width: 20vw;
+		  }
+	
+	.logo{
+		height: auto;
+		width: 3em;
+		margin: 0.3em;
+		grid-row-start: 3;
+		grid-row-end: -1;
+		grid-column-start: 1;
+		grid-column-end: 2;
+	}
+
+	header img{
+		height: 1.2em;
+		width: auto;
+	}
+
+	.images img {
+		width: 100vw;
+	}
+	.images :nth-child(2){
+		width: 45vw;
+  margin-top: -12vh;
+  margin-left: 5vw;
+	}
+
+	main :nth-child(2){
+	width: 100vw;
+	text-align: center;
+	}
+
+	.shoplink{
+		width: 100vw;
+		display: flex;
+		justify-content: space-evenly;
+		margin-bottom: 1em;
+		
+	}
+
+	h2{
+		text-transform: uppercase;
+	}
+
+	.shoplink a{
+		background-color: black;
+		color: white;
+		padding-right: 16px;
+  		padding-left: 16px;
+		font-size: 1rem;
+		line-height: 1;
+		font-weight: 500;
+		text-transform: uppercase;
+  		min-height: 43px;
+		justify-content: center;
+		align-items: center;
+		width: 40vw;
+		display: flex;
+	}
