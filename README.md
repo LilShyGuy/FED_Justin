@@ -42,7 +42,6 @@ https://arcteryx.com/nl/en
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Arc'teryx gearguide
-  
   <img src="readme-images/GG.PNG" width="375px" alt="splash page hier zie je alles">
   <img src="readme-images/GG1.PNG" width="375px" alt="splash page hier zie je alles">
   <img src="readme-images/GG2.PNG" width="375px" alt="splash page hier zie je alles">
@@ -85,7 +84,7 @@ golf le fleur
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/FED-HTMLBreakdown" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
