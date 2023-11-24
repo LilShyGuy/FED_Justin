@@ -50,7 +50,7 @@ header{
 	grid-template-rows: 1fr 1fr 1.5fr;
   	width: 100vw;
   	background-color: white;	 
-   height: 10vh;
+   height: 15vh;
    flex-wrap: wrap;
   }
 
@@ -59,13 +59,14 @@ header{
 	background-image: url(https://images-dynamic-arcteryx.imgix.net/campaign/S23/ski-snow/assets/images/panel1_desktop_arcteryx-ski-snow-hub-hero.jpg?fit=crop&h=1201&w=2881&q=65);
 	-webkit-filter: contrast(80%);
 	width: 100vw;
-	height: 220px;
+	height: auto;
 	background-repeat: no-repeat;
 	background-size: cover ;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	color: white;
+
 }
 
 #titlecard h1 {
@@ -92,6 +93,8 @@ header{
 	grid-row-end: 2;
 	grid-column-start: 1;
 	grid-column-end: -1;
+	margin: 0;
+	padding: 0;
 }
 
 #Banner ul {
@@ -104,7 +107,7 @@ header{
 	width: 100vw;
 	background-color: black;
 	gap: 2em;
-	line-height: 1.2em;
+	line-height: 2em;
 	}
 
 #Banner li {
@@ -132,7 +135,7 @@ header{
 		width: 100vw;
 		background-color: rgb(168, 168, 168);
 		gap: 2em;
-		line-height: 1.2em;
+		line-height: 2em;
 		}
 	
 	#banner2 li {
@@ -212,7 +215,10 @@ header{
 		margin-bottom: 1em;
 		
 	}
-
+	button{
+		background-color: transparent;
+		border-color: transparent;
+	}
 	h2{
 		text-transform: uppercase;
 	}
@@ -231,4 +237,20 @@ header{
 		align-items: center;
 		width: 40vw;
 		display: flex;
+	}
+
+	#menuoptions{
+		z-index: 2;
+		position: absolute;
+		background-color: white;
+		font-size: large;
+  		align-content:start;
+  		gap:1em;
+		left: 0;
+		right: 0;
+		top: 15vh;
+		text-align: left;
+		padding-bottom: 3em;
+		
+		
 	}
