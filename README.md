@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Blauw-Rood
 
   #### Je focus:
-  Responsive 
+  Surface  
  
 </details>
 
@@ -105,7 +105,7 @@ golf le fleur
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Had een begin van een HTML kon verder nog niets laten zien
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -200,10 +200,10 @@ golf le fleur
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - in de form een fieldset ipv sections
+  - doe een koopknop ipv rating voor micro-interactie
+  - kies nog een paar dingen om uit te werken voor de surface plain je moet er 5 kiezen
+  - vooral nog aan de slag gaan
 
 </details>
 
@@ -217,19 +217,20 @@ golf le fleur
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/MyGearGuide.png" width="375px" alt="uitomst opdracht 1">
+    <img src="readme-images/MyJacketF.png" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+dit was makkelijker dan ik dacht en lijkt me zeer nuttig ook is het iets wat ontbreekt op de echte site
+  <img src="readme-images/LightMode.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+de form werkt niet echt en mist nog wel plaatjes dit vanwege de tijd die ik er kwijt in was 
+  <img src="readme-images/JFform.png" width="375px" alt="bummer">
 </details>
 
 
@@ -245,8 +246,10 @@ golf le fleur
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. ChatGpt (img intersection, form, selectors,add to cart counter)
+  2. mdn (img intersection)
+  3. dev.to (selector cheatsheet)
+  4. alle codepen opdrachten 
+  
 
 </details>
