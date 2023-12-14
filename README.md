@@ -171,7 +171,9 @@ Had een begin van een HTML kon verder nog niets laten zien
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
-
+de voice over las alle kopjes in correcte volgorde op met 1 uitzondering de H1 werd twee keer herhaald. De linkjes die daadwerkelijk ergens naar toe leiden word eerst vermeld dat het een link is en dan word de naam van de link benoemd wat er voor zorgt dat de gebruiker weet wat ze kunnen verwachten bij het klikken van de link.
+de voice over was nederlands terwijl de html language op en staat
+kan meer contrast bij het text op de fotos en 2e banner
 </details>
 
 
